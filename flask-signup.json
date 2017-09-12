@@ -1,9 +1,9 @@
 {
-    "family": "flask-signup",
+    "family": "signup",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs-jenkins/flask-signup:%BUILD_NUMBER%",
-            "name": "flask-signup",
+            "image": "fazal23/ecs-jenkins/signup:%BUILD_NUMBER%",
+            "name": "signup",
             "cpu": 10,
             "memory": 256,
             "essential": true,
