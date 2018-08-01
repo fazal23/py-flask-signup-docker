@@ -2,7 +2,7 @@
     "family": "signup",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs-jenkins/signup:%BUILD_NUMBER%",
+            "image": "ankurjha21/flask-signup/signup:%BUILD_NUMBER%",
             "name": "signup",
             "cpu": 10,
             "memory": 256,
