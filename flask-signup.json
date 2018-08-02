@@ -1,5 +1,5 @@
 {
-    "family": "signup",
+    "family": "flask-signup",
     "containerDefinitions": [
         {
             "image": "ankurjha21/flask-signup/signup:%BUILD_NUMBER%",
