@@ -2,8 +2,8 @@
     "family": "flask",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs-2018/flask:%BUILD_NUMBER%",
-            "name": "signup",
+            "image": "fazal23/ecs-2018/flask:v_%BUILD_NUMBER%",
+            "name": "flask-signup",
             "cpu": 10,
             "memory": 256,
             "essential": true,
