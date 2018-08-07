@@ -1,8 +1,8 @@
 {
-    "family": "fazal",
+    "family": "jj",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs-2018/v_%BUILD_NUMBER%",
+            "image": "fazal23/ecs-new/v_%BUILD_NUMBER%",
             "name": "flask-signup",
             "cpu": 10,
             "memory": 256,
