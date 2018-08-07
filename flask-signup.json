@@ -1,9 +1,9 @@
 {
-    "family": "jj",
+    "family": "ecs-flask",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs-new",
-            "name": "flask-signup",
+            "image": "fazal23/ecs_new",
+            "name": "ecs-flask",
             "cpu": 10,
             "memory": 256,
             "essential": true,
