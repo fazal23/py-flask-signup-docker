@@ -2,7 +2,7 @@
     "family": "ecs-flask",
     "containerDefinitions": [
         {
-            "image": "fazal23/ecs_new",
+            "image": "fazal23/ecs-new",
             "name": "ecs-flask",
             "cpu": 10,
             "memory": 256,
