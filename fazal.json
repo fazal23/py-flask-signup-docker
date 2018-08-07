@@ -1,5 +1,5 @@
 {
-    "family": "flask-signup",
+    "family": "fazal",
     "containerDefinitions": [
         {
             "image": "fazal23/ecs-2018/v_%BUILD_NUMBER%",
@@ -10,7 +10,7 @@
             "portMappings": [
                 {
                     "containerPort": 5000,
-                    "hostPort": 8080
+                    "hostPort": 80
                 }
             ]
         }
